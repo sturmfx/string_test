@@ -1,4 +1,4 @@
-package com.company;
+package string_test;
 
 import javax.swing.filechooser.FileSystemView;
 import java.io.BufferedWriter;
@@ -11,7 +11,7 @@ import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Main
+public class String_test
 {
 
     public static void main(String[] args)
